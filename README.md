@@ -46,4 +46,4 @@ Core technologies used:
 
 ### Usage
 
-**Copyright [NEURALNET-DEV] [2025]. All rights reserved.**
+**Copyright [NEURALNET-DEV] [2025]. All rights reserved.** 
