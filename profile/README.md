@@ -41,3 +41,8 @@ Core technologies used:
 ### Vision
 
 **neuralnet-dev** is a collaborative space for building practical AI solutions, experimenting with modern neural architectures, and applying deep learning concepts beyond the classroom.
+
+---
+
+### COPYRIGHT
+**Copyright [NEURALNET-DEV] [2025]. All rights reserved.** 
