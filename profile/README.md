@@ -24,17 +24,18 @@
 
 This organization hosts a growing collection of practical projects focused on neural networks and deep learning. 
 
+
 ---
 
 ### Tools and Frameworks
 
 Core technologies used:
 
-- TensorFlow, Keras – Deep learning  
-- Scikit-learn – Classical machine learning  
-- NumPy, Pandas – Data processing  
-- Matplotlib, Seaborn, Plotly – Visualization  
-- Jupyter Notebooks – Interactive development  
+- TensorFlow, Keras 
+- Scikit-learn
+- NumPy, Pandas 
+- Matplotlib, Seaborn, Plotly 
+- Jupyter Notebooks  
 
 ---
 
